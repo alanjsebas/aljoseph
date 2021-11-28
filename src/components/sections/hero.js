@@ -60,11 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hello, my name is</h1>;
   const two = <h2 className="big-heading">Alan Joseph,</h2>;
-  const three = <h3 className="big-heading">I like to Experiment</h3>;
+  const three = <h3 className="big-heading">I like to Experiment.</h3>;
   const four = (
     <p>
-      I'm an IT graduate primarily interested in Web Development, Design and History. 
-I make efforts to keep up with the latest news about the world around me or the new insights and trends in the fields I am interested in.
+      I'm an IT graduate primarily interested in Web Development, Design and History. I make efforts
+      to keep up with the latest news about the world around me or the new insights and trends in
+      the fields I am interested in.
     </p>
   );
   const five = (
