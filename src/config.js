@@ -1,6 +1,8 @@
 module.exports = {
-  email: 'alanjsebas@gmail.com',
-
+  siteUrl: ' https://alanjsebas.github.io/',
+  siteLanguage: 'en_US',
+  location: 'Jamshedpur, India',
+  email: 'chandrikadeb7@gmail.com',
   socialMedia: [
     {
       name: 'GitHub',
@@ -13,7 +15,7 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/alan-joseph-/',
-    }
+    },
   ],
 
   navLinks: [
