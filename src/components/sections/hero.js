@@ -60,10 +60,15 @@ const Hero = () => {
 
   const one = (
     <h1>
-      <p>Hello, my name is</p>
+      <hr></hr>
     </h1>
   );
-  const two = <h2 className="big-heading">Alan Joseph,</h2>;
+  const two = (
+    <p>
+      <h1>Hello, my name is</h1>
+      <h2 className="big-heading">Alan Joseph,</h2>
+    </p>
+  );
   const three = <h3 className="big-heading">I like to Experiment.</h3>;
   const four = (
     <p>
