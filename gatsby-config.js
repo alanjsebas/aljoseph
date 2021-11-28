@@ -4,8 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Alan Joseph',
     description: 'I\'m an IT graduate primarily interested in Web Development, Design and History. ',
-    siteUrl: config.siteUrl,
-    pathPrefix: '/aljoseph',
+    siteUrl: 'https://brittanychiang.com',
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [

@@ -1,8 +1,6 @@
 module.exports = {
-  siteUrl: ' https://alanjsebas.github.io/',
+  siteUrl: ' https://brittanychiang.com',
   siteLanguage: 'en_US',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
   socialMedia: [
     {
       name: 'GitHub',
