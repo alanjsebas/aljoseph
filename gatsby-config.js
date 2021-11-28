@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Alan Joseph',
     description: 'I\'m an IT graduate primarily interested in Web Development, Design and History. ',
-    siteUrl: 'https://brittanychiang.com',
+    siteUrl: 'https://al-joseph.netlify.app/',
     pathPrefix: '/aljoseph',
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
