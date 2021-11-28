@@ -5,6 +5,7 @@ module.exports = {
     title: 'Alan Joseph',
     description: 'I\'m an IT graduate primarily interested in Web Development, Design and History. ',
     siteUrl: ' https://alanjsebas.github.io', // No trailing slash allowed!
+    pathPrefix: '/aljoseph',
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
@@ -18,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Alan Joseph',
+        short_name: 'Alan Joseph',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
