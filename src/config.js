@@ -1,6 +1,11 @@
 module.exports = {
-  siteUrl: ' https://brittanychiang.com',
+  siteTitle: 'Alan Joseph | IT Graduate',
+  siteDescription:
+    'I\'m an IT graduate primarily interested in Web Development, Design and History.',
+  siteKeywords: 'Alan Joseph, alanjsebas, alan-joseph, IT Graduate, web developer, javascript',
+  siteUrl: ' https://al-joseph.netlify.app/',
   siteLanguage: 'en_US',
+  email: 'alanjsebas@gmail.com',
   socialMedia: [
     {
       name: 'GitHub',
