@@ -1,8 +1,7 @@
 ---
 date: '6'
-title: 'GSMArena Mobile Scraper'
-cover: './gsm.PNG'
-github: 'https://github.com/alanjsebas/GSMScraper'
+title: 'Web Scraping Projects'
+cover: './gsm.png'
 tech:
   - Python
   - BeautifulSoup
@@ -10,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-<b>Currently working on a python web scraper to fetch relevant details of any mobile from GSMArena as part of Internship.<b>
+<b>Currently working on Python web scraping related projects involving BeautifulSoup library as part of Internship.<b>
